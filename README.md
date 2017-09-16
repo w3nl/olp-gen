@@ -1,2 +1,2 @@
 # olp-gen
-Generate a welcome slide for OpenLP files.
+Generate a song list for OpenLP files.
