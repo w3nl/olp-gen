@@ -943,7 +943,7 @@
 				createZipWriter(writer, callback, onerror, dontDeflate);
 			}, onerror);
 		},
-		useWebWorkers : true,
+		useWebWorkers : false, // true,
 		/**
 		 * Directory containing the default worker scripts (z-worker.js, deflate.js, and inflate.js), relative to current base url.
 		 * E.g.: zip.workerScripts = './';
